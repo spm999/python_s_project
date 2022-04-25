@@ -4,3 +4,5 @@
 2-Password Generator with gui(Tkinter)
 
 3-Scientific Calculator with tkinter
+
+4-Binod Detector
